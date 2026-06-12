@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Demo Slot",
+  "background_color": "#fff",
+  "theme_color": "#212121",
+  "start_url": "/",
+  "display": "standalone",
+  "description": "Slot Demo Gacor",
+  "icons": [{
+    "src": "/assets/favicon/maskable_icon.png",
+    "sizes":"any",
+    "type": "image/png",
+    "purpose": "any maskable"
+    },
+    {
+    "src": "/assets/favicon/maskable_icon_x512.png",
+    "sizes":"512x512",
+    "type": "image/png",
+    "purpose": "any maskable"
+  }]
+}
